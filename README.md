@@ -2,6 +2,10 @@
 O CedPET é uma plataforma de gestão desenvolvida para a clínica veterinária do campus Cedeteg da Unicentro, em Guarapuava. Seu objetivo é modernizar o atendimento, facilitando a comunicação entre usuários e a clínica.
 Para resolver essas e outras situações inerentes, o sistema conta com as seguintes funcionalidades: o gerenciamento dos cadastros no qual haverá um perfil administrador, perfil com menos permissões para professores e, perfis padrão para os estagiários da clínica.
 
+## Documentação da Aplicação:
+[CEDPet- Sistema Veterinario.pdf](https://github.com/user-attachments/files/21478751/CEDPet-.Sistema.Veterinario.pdf)
+
+
 ## Design das Telas - Figma: 
 https://www.figma.com/design/kB0vF3YrrR7K9F2aIw26WY/CedPet?node-id=819-38&t=oVp8XYnhbbD244eY-1
 
